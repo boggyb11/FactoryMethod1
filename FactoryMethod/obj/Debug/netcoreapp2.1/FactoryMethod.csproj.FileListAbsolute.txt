@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.pdb
